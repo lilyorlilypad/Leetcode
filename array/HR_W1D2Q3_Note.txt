@@ -1,0 +1,4 @@
+create an array of 0's
+
+if we know the length of the array n:
+arr = [0] *n
