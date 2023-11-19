@@ -1,0 +1,2 @@
+sortedArr= sorted(...)
+sorted is a built-in function returns a sorted array, it does not modify the original array
